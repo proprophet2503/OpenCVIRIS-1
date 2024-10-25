@@ -1,0 +1,3 @@
+/home/jeremymboe/cmpt130/belajarOpenCVCPP/1.imshowwaitkey/build/CMakeFiles/rebuild_cache.dir
+/home/jeremymboe/cmpt130/belajarOpenCVCPP/1.imshowwaitkey/build/CMakeFiles/edit_cache.dir
+/home/jeremymboe/cmpt130/belajarOpenCVCPP/1.imshowwaitkey/build/CMakeFiles/main.dir
